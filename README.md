@@ -1,5 +1,7 @@
+![Group 4](https://user-images.githubusercontent.com/71280528/196391257-a15c620d-db08-4fef-8b18-e3606a58481d.png)
+
 # Overview
-This repository contains a list of Web3 and Blockchain Open Source projects on GitHub. To add your own web3 or blockchain project to this list please check the [CONTRIBUTING.md](CONTRIBUTING.md)! file
+This repository contains a list of Web3 and Blockchain Open Source projects on GitHub. To add your own web3 or blockchain project to this list please check the [CONTRIBUTION.md](CONTRIBUTION.md) file
 
 ## Important Info
 Before making a Pull Request(PR) to any of these projects, please ensure that you read the `CONTRIBUTION.md` file and the `README.md` file of the particular project you wish to contribute to properly.
