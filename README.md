@@ -1,4 +1,4 @@
-![Group 4](https://user-images.githubusercontent.com/71280528/196391257-a15c620d-db08-4fef-8b18-e3606a58481d.png)
+![Group 7](https://user-images.githubusercontent.com/71280528/196392361-50ba470a-98c6-49b0-8b5b-37b00ba3bc04.png)
 
 # Overview
 This repository contains a list of Web3 and Blockchain Open Source projects on GitHub. To add your own web3 or blockchain project to this list please check the [CONTRIBUTION.md](CONTRIBUTION.md) file
