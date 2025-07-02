@@ -1,14 +1,14 @@
 # How to Contribute to this Repository
 
 Contribution are always welcome and recommended!
-1. Fork this Repository 
-2. Clone to your local PC: In your Terminal run the code below
+- 1. Fork this Repository 
+- 2. Clone to your local PC: In your Terminal run the code below
 ```sh
 git clone https://github.com/YOUR_USERNAME/W3OSS-Project.git
 ```
-**Change the `YOUR_USERNAME` to your Github username
-3. Make your changes
-4. Create a Pull Request
+**Change the `YOUR_USERNAME` to your Github username**
+- 3. Make your changes
+- 4. Create a Pull Request
 
 ## Contributing Guidelines
 
